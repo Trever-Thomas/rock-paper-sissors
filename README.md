@@ -1,1 +1,1 @@
-# Rock-Paper-Sissors
+# rock-paper-sissors
